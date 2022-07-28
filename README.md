@@ -3,19 +3,20 @@
 A new Flutter project.
 
 This app is made with intention to get more handy to flutter devlopement and Google Firebase.
-Frontend :Flutter
-Backend :Google Firebase
-State-Management :GetX
+
+Frontend :Flutter ; 
+Backend :Google Firebase ;
+State-Management :GetX.
 
 Features :
 All the features are backed by Firebase and can be updated in realtime 
-1.Story-View
-2.User Login and logout
-3.New Restaurant and its features addition from backend
-4.Order Tracking of User
-5.Live Location service from User to Reastaurant
-6.User Food-Cart Management
-7. Realtime Like system for Reastaurant
+1.Story-View,
+2.User Login and logout,
+3.New Restaurant and its features addition from backend,
+4.Order Tracking of User,
+5.Live Location service from User to Reastaurant,
+6.User Food-Cart Management,
+7. Realtime Like system for Reastaurant.
 
 In Progress Feature :
 1.Payment System
