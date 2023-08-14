@@ -1,35 +1,46 @@
-# flutter_app1
+# Single Tomato
 
-A new Flutter project.
+A new Flutter project (food delivery app).
 
 This app is made with intention to get more handy to flutter devlopement and Google Firebase.
 
-Frontend :Flutter ; 
-Backend :Google Firebase ;
+## Frontend : Flutter 
+## Backend : Google Firebase 
 State-Management :GetX.
 
-Features :
+## Features :
 All the features are backed by Firebase and can be updated in realtime 
-1.Story-View,
-2.User Login and logout,
+
+1.User Login and logout,
+
+2.Story-View,
+
 3.New Restaurant and its features addition from backend,
+
 4.Order Tracking of User,
+
 5.Live Location service from User to Reastaurant,
+
 6.User Food-Cart Management,
-7. Realtime Like system for Reastaurant.
+
+7.Realtime Like system for Reastaurant.
+
 
 In Progress Feature :
 1.Payment System
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Some snap of app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://github.com/shantanuj2002/Single-Tomato/assets/104200799/6fad8b13-934a-4729-bfc6-6e1230c406d6)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/shantanuj2002/Single-Tomato/assets/104200799/ca424dfa-3be8-48eb-8cc2-1f86bd3df02d
+
+
+
+![i1](https://github.com/shantanuj2002/Single-Tomato/assets/104200799/21f9a3c7-bd65-4a3c-9f36-48166f7bca7b)
+
+
+![i2](https://github.com/shantanuj2002/Single-Tomato/assets/104200799/c09d5032-da93-4cf7-b82a-7ced790e0450)
+
